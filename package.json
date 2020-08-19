@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/style.css -o output.css"
+  },
+  "keywords": [],
+  "author": "Muskaan Gupta",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^1.7.1"
+  }
+}
